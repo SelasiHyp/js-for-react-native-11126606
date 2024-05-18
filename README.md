@@ -2,13 +2,13 @@
 
 # 11126606
 
-#TASK1
+# TASK1
 
 ## Description.
 
 This is a function processArray, where it takes an array of numbers as an input. It goes through each element in the array, determines whether the number is even or odd, and performs different operations in case of even and odd numbers. If the number is even, it will square the number and add the result to the result array. If the number is odd, then it multiplies the number by 3 and adds it to the result array. Finally, it returns the result array that contains the numbers that were modified.
 
-#TASK2
+# TASK2
 
 ## Description.
 
